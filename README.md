@@ -10,7 +10,7 @@ Fast-forward to today, I am having the privilege to work in a company who makes 
 
 - 💬 I love books!
 - 📫 You can reach me via email <joaoomatheus@hotmail.com>
-- 👯 I'm a big fan of [Frontend Mentor](https://frontendmentor.io). Love both working on their challenges and giving feedback to others.
+- 👯 I'm a big fan of [Frontend Mentor](https://frontendmentor.io).
 
 ## 🛠 Tools and technologies 
 
