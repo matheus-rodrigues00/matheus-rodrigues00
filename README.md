@@ -9,6 +9,7 @@ Fast-forward to today, I am having the privilege to work in a company who makes 
 ## In short
 
 - 💬 I love books!
+- ♟️ I love chess!
 - 📫 You can reach me via email <joaoomatheus@hotmail.com>
 - 👯 I'm a big fan of [Frontend Mentor](https://frontendmentor.io).
 
