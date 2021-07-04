@@ -10,7 +10,7 @@ Fast-forward to today, I am having the privilege to work in a company who makes 
 
 - 💬 I love books!
 - ♟️ I love chess!
-- 📫 You can reach me via email <joaoomatheus@hotmail.com>
+- 📫 You can reach me via linkedin <https://www.linkedin.com/in/matheus777/>
 - 👯 I'm a big fan of [Frontend Mentor](https://frontendmentor.io).
 
 ## 🛠 Tools and technologies 
