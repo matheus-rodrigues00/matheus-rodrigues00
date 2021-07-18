@@ -2,12 +2,11 @@
 
 ![](./img/Header.PNG)
 
-Hello friend! My name is Matheus Rodrigues and I enjoy creating things that live on the internet. My interest in Internet in general grew really early, I always liked a lot videogames and websites in general... anyway, when a friend of mine invited me to learn coding I accepted the opportunity and here I am :D.
+Olá amigo! Meu nome é Matheus Rodrigues e gosto de criar coisas que vivem na internet. Meu interesse pela Internet em geral cresceu muito cedo, sempre gostei muito de videogames e sites em geral... enfim, quando um amigo meu me convidou para aprender programação aceitei a oportunidade e aqui estou :D.
 
-Fast-forward to today, I am having the privilege to work in a company who makes freelance websites and apps, and besides that I develop some personal projects to train my skills. My main focus these days is to increase my strength in React - React Native - Redux, I'm also doing vanilla JavaScript projects to improve my JavaScript level. I really love styling, I spent many time building applications like the ones in Frontend Mentor, also love this website. If you are a developer, I would really enjoy to chat with you, programming is my passion and I love to talk about it. Thanks for your time reading.
+Avançando para o dia de hoje, estou tendo o privilégio de trabalhar em uma empresa que faz sites e aplicativos freelance, e além disso desenvolvo alguns projetos pessoais para treinar minhas habilidades. Meu foco principal hoje em dia é aumentar minha força em React - React Native - Redux, também estou fazendo projetos de JavaScript vanilla para melhorar meu nível de JavaScript. Eu realmente amo estilizar, passei muito tempo criando aplicativos como os do Frontend Mentor, também adoro este site. Se você é um desenvolvedor, eu realmente gostaria de conversar com você, programar é minha paixão e adoro falar sobre isso. Obrigado pelo seu tempo lendo.
 
-## In short
-
+## Em resumo
 - 💬 I love books!
 - ♟️ I love chess!
 - 📫 You can reach me via linkedin <www.linkedin.com/in/matheus777>
@@ -24,5 +23,6 @@ Fast-forward to today, I am having the privilege to work in a company who makes 
 
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 
+- Este é o link para meu currículo: [Currículo Matheus Rodrigues](https://www.canva.com/design/DAEaGTktH7A/iWaO2eOXPpZsjw8rl80CLg/view?utm_content=DAEaGTktH7A&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink).
 
 
