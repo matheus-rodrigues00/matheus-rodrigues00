@@ -1,4 +1,4 @@
-## Hi, I'm Matheus Rodrigues 👋
+## Olá, Eu sou Matheus Rodrigues 👋
 
 ![](./img/Header.PNG)
 
@@ -7,13 +7,12 @@ Olá amigo! Meu nome é Matheus Rodrigues e gosto de criar coisas que vivem na i
 Avançando para o dia de hoje, estou tendo o privilégio de trabalhar em uma empresa que faz sites e aplicativos freelance, e além disso desenvolvo alguns projetos pessoais para treinar minhas habilidades. Meu foco principal hoje em dia é aumentar minha força em React - React Native - Redux, também estou fazendo projetos de JavaScript vanilla para melhorar meu nível de JavaScript. Eu realmente amo estilizar, passei muito tempo criando aplicativos como os do Frontend Mentor, também adoro este site. Se você é um desenvolvedor, eu realmente gostaria de conversar com você, programar é minha paixão e adoro falar sobre isso. Obrigado pelo seu tempo lendo.
 
 ## Em resumo
-- 💬 I love books!
-- ♟️ I love chess!
-- 📫 You can reach me via linkedin <www.linkedin.com/in/matheus777>
-- 👯 I'm a big fan of [Frontend Mentor](https://frontendmentor.io).
-- 💻 I'm a big fan of [Hacker Rank](www.hackerrank.com).
+- 💬 Eu amo livros!
+- ♟️ Eu amo xadrez!
+- 📫 Você pode me contatar via [Linkedin](<www.linkedin.com/in/matheus777)
+- 👯 Sou um grande fâ do [Frontend Mentor](https://frontendmentor.io).
 
-## 🛠 Tools and technologies 
+## 🛠 Ferramentas e Tecnologias 
 
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/> <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
