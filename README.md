@@ -9,7 +9,7 @@ Avançando para o dia de hoje, estou tendo o privilégio de trabalhar em uma emp
 ## Em resumo
 - 💬 Eu amo livros!
 - ♟️ Eu amo xadrez!
-- 📫 Você pode me contatar via [Linkedin](www.linkedin.com/in/matheus777).
+- 📫 Você pode me contatar via [Linkedin](https://www.linkedin.com/in/matheus777).
 - 👯 Sou um grande fâ do [Frontend Mentor](https://frontendmentor.io).
 
 ## 🛠 Ferramentas e Tecnologias 
