@@ -22,6 +22,6 @@ Avançando para o dia de hoje, estou tendo o privilégio de trabalhar em uma emp
 
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 
-<!-- - Este é o link para meu currículo: [Currículo Matheus Rodrigues](https://www.canva.com/design/DAEaGTktH7A/iWaO2eOXPpZsjw8rl80CLg/view?utm_content=DAEaGTktH7A&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink).
- -->
+- Este é o link para meu currículo: [Currículo Matheus Rodrigues](https://www.canva.com/design/DAEaGTktH7A/iWaO2eOXPpZsjw8rl80CLg/view?utm_content=DAEaGTktH7A&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink).
+
 
