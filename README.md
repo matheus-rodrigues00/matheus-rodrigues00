@@ -2,7 +2,7 @@
 
 ![](./img/Header.PNG)
 
-Olá amigo! Meu nome é Matheus Rodrigues e gosto de criar coisas que vivem na internet. Meu interesse pela Internet em geral cresceu muito cedo, sempre gostei muito de videogames e sites em geral... enfim, quando um amigo meu me convidou para aprender programação aceitei a oportunidade e aqui estou :D.
+Olá amigo! Meu nome é Matheus Rodrigues. Meu interesse pela Internet em geral cresceu muito cedo, sempre gostei muito de videogames e sites em geral... enfim, quando um amigo meu me convidou para aprender programação aceitei a oportunidade e aqui estou :D.
 
 Avançando para o dia de hoje, estou tendo o privilégio de trabalhar em uma empresa que faz sites e aplicativos freelance, e além disso desenvolvo alguns projetos pessoais para treinar minhas habilidades. Meu foco principal hoje em dia é aumentar minha força em React - React Native - Redux, também estou fazendo projetos de JavaScript vanilla para melhorar meu nível de JavaScript. Eu realmente amo estilizar, passei muito tempo criando aplicativos como os do Frontend Mentor, também adoro este site. Se você é um desenvolvedor, eu realmente gostaria de conversar com você, programar é minha paixão e adoro falar sobre isso. Obrigado pelo seu tempo lendo.
 
