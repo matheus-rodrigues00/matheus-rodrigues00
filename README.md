@@ -20,7 +20,7 @@ Avançando para o dia de hoje, estou tendo o privilégio de trabalhar em uma emp
 
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/> <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
 
-<img alt="PHP" src="https://img.shields.io/badge/PHP-%23F24E1E.svg?&style=for-the-badge&logo=PHP&logoColor=white"/>
+<img alt="PHP" src="https://img.shields.io/badge/PHP-%23F24E1E.svg?&style=for-the-badge&logo=PHP&logoColor=white"/> <img alt="Postman" src="https://img.shields.io/badge/postman-%23F24E1E.svg?&style=for-the-badge&logo=postman&logoColor=white"/>
 
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 
