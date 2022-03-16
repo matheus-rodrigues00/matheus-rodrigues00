@@ -6,9 +6,9 @@
 
 Hi, I'm Matheus Rodrigues, a passionate self-taught frontend web developer and a freelance software engineer from Brazil. My passion for software lies with solve people's problem, I think that throughout the years technology has been and will be one of the best ways to solve real life problems, if you want to see me happy, give me a real life problem to solve 😃.
 
-- 💼 Any freelance work? do reach, <a href="mailto:joaoomatheus@hotmail.com">email</a> or <a href="https://www.linkedin.com/in/matheus777/">linkedin</a> :D
+- 💼 Any freelance work? do reach, <a href="mailto:joaoomatheus@hotmail.com">email</a> or <a href="https://www.linkedin.com/in/matheus777/">linkedin</a> :D;
 - 💬 Ask me about anything related to web development, I am happy to help;
-- 👯 I'm huge fan of <a href="https://frontendmentor.io">Frontend Mentor</a>.
+- 👯 I'm huge fan of <a href="https://frontendmentor.io">Frontend Mentor</a>;
 - ♟️ Fun Fact: chess enthusiast!
 
 ## 🛠 Languages and Tools 
