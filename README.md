@@ -8,7 +8,7 @@ Hi, I'm Matheus Rodrigues, a passionate self-taught frontend web developer and a
 
 - 💼 Any freelance work? do reach, <a href="mailto:joaoomatheus@hotmail.com">Email</a> :)
 - 💬 Ask me about anything related to web development, I am happy to help;
-- 👯 I'm huge fan of [Frontend Mentor](https://frontendmentor.io).
+- 👯 I'm huge fan of <a href="https://frontendmentor.io">Frontend Mentor</a>.
 - ♟️ Fun Fact: chess enthusiast!
 
 ## 🛠 Languages and Tools 
