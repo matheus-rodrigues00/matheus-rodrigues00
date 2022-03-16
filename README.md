@@ -13,33 +13,43 @@ Hi, I'm Matheus Rodrigues, a passionate self-taught frontend web developer and a
 
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="Git" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" alt="GitHub" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="PHP" width="25" height="25" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="25" height="25" />
-<!-- <img src="" alt="" width="25" height="25" />
-<img src="" alt="" width="25" height="25" />
-<img src="" alt="" width="25" height="25" />
-<img src="" alt="" width="25" height="25" />
-<img src="" alt="" width="25" height="25" />
-<img src="" alt="" width="25" height="25" />
-<img src="" alt="" width="25" height="25" />
-<img src="" alt="" width="25" height="25" />
-<img src="" alt="" width="25" height="25" />
-<img src="" alt="" width="25" height="25" />
-<img src="" alt="" width="25" height="25" />
-<img src="" alt="" width="25" height="25" /> -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />
+<!--  Javascript  -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="25" height="25" />
+<!--  CSS  -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
+  <!-- Git -->
+  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="Git" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" alt="GitHub" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="BitBucket" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="Gitlab" width="25" height="25" />
+<!--  Backend  -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="PHP" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" alt="Apache" width="25" height="25" />
+<!--  Deploy  -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
+  
+<!--  Generics  -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg" alt="slack" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="25" height="25" />
+  <!-- 
+  
+  <img src="" alt="" width="25" height="25" />
+  <img src="" alt="" width="25" height="25" />
+  <img src="" alt="" width="25" height="25" />
+  <img src="" alt="" width="25" height="25" />
+  <img src="" alt="" width="25" height="25" />
+  <img src="" alt="" width="25" height="25" />
+  <img src="" alt="" width="25" height="25" /> -->
 </p>
