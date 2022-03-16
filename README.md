@@ -29,8 +29,8 @@ Hi, I'm Matheus Rodrigues, a passionate self-taught frontend web developer and a
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="Git" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" alt="GitHub" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="PHP" width="25" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="25" height="25" />
 <!-- <img src="" alt="" width="25" height="25" />
-<img src="" alt="" width="25" height="25" />
 <img src="" alt="" width="25" height="25" />
 <img src="" alt="" width="25" height="25" />
 <img src="" alt="" width="25" height="25" />
