@@ -1,16 +1,17 @@
 ## Hi, I'm Matheus Rodrigues <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Olá amigo! Meu nome é Matheus Rodrigues. Meu interesse pela Internet em geral cresceu muito cedo, sempre gostei muito de videogames e sites em geral... enfim, quando um amigo meu me convidou para aprender programação aceitei a oportunidade e aqui estou :D.
+<a href="https://www.linkedin.com/in/matheus777/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
-Avançando para o dia de hoje, estou tendo o privilégio de desenvolver sites e aplicativos freelance, e além disso desenvolvo alguns projetos pessoais para treinar minhas habilidades. Meu foco principal hoje em dia é aumentar minha força em React - React Native - Redux, também estou fazendo projetos de JavaScript vanilla para melhorar meu nível de JavaScript. Eu realmente amo estilizar, passei muito tempo criando aplicativos como os do Frontend Mentor, também adoro este site. Se você é um desenvolvedor, eu realmente gostaria de conversar com você, programar é minha paixão e adoro falar sobre isso. Obrigado pelo seu tempo lendo.
+Hi, I'm Matheus Rodrigues, a passionate self-taught frontend web developer and a freelance software engineer from Brazil. My passion for software lies with solve people's problem, I think that throughout the years technology has been and will be one of the best ways to solve real life problems, if you want to see me happy, give me a real life problem to solve 😃.
 
-## Em resumo
-- 💬 Eu amo livros!
-- ♟️ Eu amo xadrez!
-- 📫 Você pode me contatar via [Linkedin](https://www.linkedin.com/in/matheus777).
-- 👯 Sou um grande fâ do [Frontend Mentor](https://frontendmentor.io).
+- 💼 Any freelance work? do reach, [email](joaoomatheus@hotmail.com) :)
+- 💬 Ask me about anything related to web development, I am happy to help;
+- 👯 I'm huge fan of [Frontend Mentor](https://frontendmentor.io).
+- ♟️ Fun Fact: chess enthusiast!
 
-## 🛠 Ferramentas e Tecnologias 
+## 🛠 Languages and Tools 
 
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/> <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
@@ -21,7 +22,3 @@ Avançando para o dia de hoje, estou tendo o privilégio de desenvolver sites e 
 <img alt="PHP" src="https://img.shields.io/badge/PHP-%23F24E1E.svg?&style=for-the-badge&logo=PHP&logoColor=white"/> <img alt="Postman" src="https://img.shields.io/badge/postman-%23F24E1E.svg?&style=for-the-badge&logo=postman&logoColor=white"/>
 
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-
-- Este é o link para meu currículo: [Currículo Matheus Rodrigues](https://www.canva.com/design/DAEaGTktH7A/iWaO2eOXPpZsjw8rl80CLg/view?utm_content=DAEaGTktH7A&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink).
-
-
