@@ -1,6 +1,4 @@
-## Olá, Eu sou Matheus Rodrigues 👋
-
-![](./img/Header.PNG)
+## Hi, I'm Matheus Rodrigues <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Olá amigo! Meu nome é Matheus Rodrigues. Meu interesse pela Internet em geral cresceu muito cedo, sempre gostei muito de videogames e sites em geral... enfim, quando um amigo meu me convidou para aprender programação aceitei a oportunidade e aqui estou :D.
 
