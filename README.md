@@ -1,7 +1,7 @@
 ## Hello friend <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://www.linkedin.com/in/matheus777/" target="blank">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/matheus777/" target="_blank">
+  <img align="left" alt="Matheus Rodrigues LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 Hi, I'm Matheus Rodrigues, a passionate self-taught frontend web developer and a freelance software engineer from Brazil. My passion for software lies with solve people's problem, I think that throughout the years technology has been and will be one of the best ways to solve real life problems, if you want to see me happy, give me a real life problem to solve 😃.
