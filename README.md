@@ -21,7 +21,8 @@ I'm looking forward to contribute to big projects and do something meaningful to
 
 <h3>Backend</h3>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="25" height="25" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="PHP" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
 
