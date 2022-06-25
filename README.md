@@ -4,7 +4,8 @@
   <img align="left" alt="Matheus Rodrigues LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-Hi, I'm Matheus Rodrigues, a passionate self-taught frontend web developer and a freelance software engineer from Brazil. My passion for software lies with solve people's problem, I think that throughout the years technology has been and will be one of the best ways to solve real life problems, if you want to see me happy, give me a real life problem to solve 😃.
+Hi, I'm Matheus Rodrigues, a passionate self-taught web developer. My passion for software lies with solve people's problem. If you want to see me happy, give me a real life problem to solve 😃.
+I First started as a Frontend Web Dev. Nowdays I work as a Fullstack Web Dev.
 
 - 💼 Any freelance work? do reach, <a href="mailto:joaoomatheus@hotmail.com">email</a> or <a href="https://www.linkedin.com/in/matheus777/">linkedin</a>;
 - 💬 Ask me about anything related to web development, I am happy to help;
