@@ -5,7 +5,7 @@
 </a>
 
 Hi, I'm Matheus Rodrigues, a passionate self-taught web developer. My passion for software lies with solve people's problem. If you want to see me happy, give me a real life problem to solve 😃.
-I'm looking forward to contribute to big projects and do something meaningful to the world with lines of code. Don't hesitate to contact me if you see anything worth doing.
+I'm looking forward to contribute to big projects and do something meaningful to the world through lines of code. Don't hesitate to contact me if you see anything worth doing.
 <h2>🚀 Some Tools That I Work With Daily</h2>
 
 <h3>Frontend</h3>
