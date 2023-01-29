@@ -4,8 +4,16 @@
   <img align="left" alt="Matheus Rodrigues LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-Hi, I'm Matheus Rodrigues, a passionate self-taught web developer. My passion for software lies with solve people's problem. If you want to see me happy, just give me a real life problem to solve 😃.
+Hi, I'm João Rodrigues, a passionate Full-Stack software developer. My passion for software lies with solve people's problem. If you want to see me happy, just give me a real life problem to solve 😃.
 <h2>🚀 Some Tools That I Work With Daily</h2>
+
+<h3>Backend</h3>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="PHP" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
+</p>
 
 <h3>Frontend</h3>
 <p align="left">
@@ -17,15 +25,6 @@ Hi, I'm Matheus Rodrigues, a passionate self-taught web developer. My passion fo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
 </p>
-
-<h3>Backend</h3>
-<p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="PHP" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
-</p>
           
 <h3>Version Control</h3>
 <p align="left">
@@ -33,7 +32,7 @@ Hi, I'm Matheus Rodrigues, a passionate self-taught web developer. My passion fo
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" alt="GitHub" width="25" height="25" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="BitBucket" width="25" height="25" />
 </p>
-  
+
 <h3>Deployment</h3>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="25" height="25" />
@@ -42,8 +41,8 @@ Hi, I'm Matheus Rodrigues, a passionate self-taught web developer. My passion fo
 </p>
 
 
-- 💼 You can reach me on <a href="https://t.me/matheus_rodrigues00">Telegram</a> or <a href="https://www.linkedin.com/in/matheus777/">Linkedin</a>;
-- 👯 I'm huge fan of <a href="https://frontendmentor.io">Frontend Mentor</a>;
+- 💼 You can reach me on <a href="https://t.me/joao_rodrigues1">Telegram</a> or <a href="https://www.linkedin.com/in/matheus777/">Linkedin</a>;
+- 👯 I'm huge fan of <a href="https://leetcode.com/">LeetCode</a>;
 - ♟️ Fun Fact: used to be chess enthusiast
 
 <img style="-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://camo.githubusercontent.com/2daa5a3f385c1ede09c109bb121875bb7738b99dffb43683bdf272ac5dd3dd0a/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f31334867774773584630616947592f67697068792e676966">
