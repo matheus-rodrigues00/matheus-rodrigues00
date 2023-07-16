@@ -1,8 +1,6 @@
 ## Hello friend <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
-<a href="https://www.linkedin.com/in/joao-software-developer/" target="_blank">
-  <img align="left" alt="Matheus Rodrigues LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
 
 Hi, I'm João Rodrigues, a passionate Full-Stack software developer. My passion for software lies with solve people's problem. If you want to see me happy, just give me a real life problem to solve 😃.
 <h2>🚀 Some Tools That I Work With Daily</h2>
