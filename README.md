@@ -7,7 +7,6 @@ I'm **Joao Matheus Rodrigues**, a FullStack software developer who deeply believ
 - 👨🏼‍💻 Check out my [Personal Portfolio](https://matheussoftware.com/work)
 - 💼 You can reach me on [Telegram](https://t.me/joao_rodrigues1) or [Linkedin](https://www.linkedin.com/in/joao-software-developer/)
 - 🎯 I'm huge fan of [LeetCode](https://leetcode.com/matheus-rodrigues00/)
-- ♟️ Fun Fact: used to be chess enthusiast
 <br>
 
 
