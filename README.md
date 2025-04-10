@@ -4,10 +4,5 @@ I'm **Joao Matheus Rodrigues**, a FullStack software developer who deeply believ
 ## 🚀 Some Tools That I Work With Daily
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-rodrigues00&layout=compact)](https://github.com/matheus-rodrigues00/github-readme-stats)
 
-- 👨🏼‍💻 Check out my [Personal Portfolio](https://matheussoftware.com/work)
-- 💼 You can reach me on [Telegram](https://t.me/joao_rodrigues1) or [Linkedin](https://www.linkedin.com/in/joao-software-developer/)
+- 💼 You can reach me on [Telegram](https://t.me/joao_rodrigues1) or [Linkedin](https://www.linkedin.com/in/matheus-software-developer/)
 - 🎯 I'm huge fan of [LeetCode](https://leetcode.com/matheus-rodrigues00/)
-<br>
-
-
-![Mateheus Rodrigues GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheus-rodrigues00&show_icons=true&theme=dark&hide_rank=true)
